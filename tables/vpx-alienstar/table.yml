@@ -12,7 +12,7 @@ romNotes: >-
   Please look on the .vpx page's 'About This File' tab for guidance concerning where to obtain the ROM. Search for the
   phrase 'alienstr.1519' (without quotes).
 romUrlOverride: "See Note"
-romVersionOverride: "alienstr.zip"
+romVersionOverride: "alienstr"
 tableNotes: "download version 3.0.2"
 tableVPSId: "0RdFWzVI"
 testers:
