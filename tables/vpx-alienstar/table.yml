@@ -8,9 +8,11 @@ backglassNotes: "download v2.0"
 backglassVPSId: "YF7EW_7NzA"
 fps: 60
 romChecksum: "6241C22899DB43F91B1669AAB2A2A5C3"
-romNotes: "alienstr"
-romUrlOverride: "https://pinballnirvana.com/forums/resources/alienstr.1519/"
-romVersionOverride: "alienstr"
+romNotes: >-
+  Please look on the .vpx page's 'About This File' tab for guidance concerning where to obtain the ROM. Search for the
+  phrase 'alienstr.1519' (without quotes).
+romUrlOverride: "See Note"
+romVersionOverride: "alienstr.zip"
 tableNotes: "download version 3.0.2"
 tableVPSId: "0RdFWzVI"
 testers:
