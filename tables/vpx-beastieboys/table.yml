@@ -1,15 +1,9 @@
 ---
 altSoundArchiveFormat: "zip"
 altSoundArchiveRoot: "MEDIA PACK/BEASTIEB"
-altSoundAuthorsOverride:
-  - "ZandysArcade"
+altSoundBundled: true
 altSoundChecksum: "3FFE6630BA731820920B2BBF3FD635F3"
-altSoundNotes: "MEDIA PACK.zip"
-altSoundUrlOverride: "https://vpuniverse.com/files/file/25400-beastie-boys/"
-altSoundVersionOverride: "MEDIA PACK"
-postInstallRename:
-  - source: "pinmame/altsound/barra_l1"
-    destination: "music/BEASTIEB"
+altSoundNotes: "Download MEDIA PACK.zip from the .vpx table page"
 backglassChecksum: "7E1E5EF9EC3C4611423CBEB8BB490CE8"
 backglassVPSId: "VqCua6OG05"
 fps: 60
