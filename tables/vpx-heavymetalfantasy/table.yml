@@ -1,9 +1,9 @@
 ---
-altSoundArchiveFormat: "7z"
+altSoundArchiveFormat: "zip"
 altSoundArchiveRoot: "Music"
-altSoundChecksum: "6AC0AB8C1B943A1CC0037870FC9D5499"
-altSoundNotes: "Download Heavy Metal Rowamet 1983 Soundtrack.7z"
-altSoundVPSId: "UCb3YYKZDr"
+altSoundChecksum: "BBB989CA410B54370AF0E015D00B3335"
+altSoundNotes: "Download Music.zip"
+altSoundVPSId: ""
 postInstallRename:
   - source: "pinmame/altsound/heavymtl"
     destination: "music/HeavyMetal"
