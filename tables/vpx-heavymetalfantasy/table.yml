@@ -1,9 +1,9 @@
 ---
 altSoundArchiveFormat: "zip"
 altSoundArchiveRoot: "Music"
-altSoundChecksum: "BBB989CA410B54370AF0E015D00B3335"
-altSoundNotes: "Download Music.zip"
-altSoundVPSId: ""
+altSoundChecksum: "E7844C63222B5CB2B7A21B0C8D6002B7"
+altSoundNotes: "Download HM-Music.zip"
+altSoundVPSId: "UCb3YYKZDr"
 postInstallRename:
   - source: "pinmame/altsound/heavymtl"
     destination: "music/HeavyMetal"
@@ -32,7 +32,7 @@ testers:
   - "Missile Toad"
   - "Wraith"
   - "Not Me"
-  - "ChatalataLove"
+  - "ChalataLove"
   - "LionsFan"
 vpxChecksum: "FE65D834265EA34E271F01043041F4D2"
 vpxVPSId: "or_OYzZF"
