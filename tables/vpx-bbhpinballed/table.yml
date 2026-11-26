@@ -1,12 +1,9 @@
 ---
 altSoundArchiveFormat: "zip"
 altSoundArchiveRoot: "beav_butt"
-altSoundAuthorsOverride:
-  - "MikeDASpike"
 altSoundChecksum: "0A0CFC71BB72C8257B151DCDA2D626DB"
-altSoundNotes: "Download 'Beavis and Butt-head_Pinballed.zip' - same URL as vpx"
-altSoundUrlOverride: "https://vpuniverse.com/files/file/27824-beavis-and-butt-head-pinballed-original-2024-with-vr/"
-altSoundVersionOverride: "1.0"
+altSoundNotes: "Alt sound is in 'Beavis and Butt-head_Pinballed.zip' at xpx download page."
+altSoundBundled: true
 backglassChecksum: "ACC6F3A52AC81BE6569E55A01920EF44"
 backglassVPSId: "vVj3OmCOBQ"
 fps: 60
