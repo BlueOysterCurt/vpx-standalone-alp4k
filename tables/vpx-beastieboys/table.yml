@@ -1,9 +1,9 @@
 ---
 altSoundArchiveFormat: "zip"
 altSoundArchiveRoot: "MEDIA PACK/BEASTIEB"
-altSoundBundled: true
 altSoundChecksum: "3FFE6630BA731820920B2BBF3FD635F3"
-altSoundNotes: "Download MEDIA PACK.zip from the .vpx table page"
+altSoundNotes: "Also download 'MEDIA PACK.zip' from vpx download page."
+altSoundBundled: true
 postInstallRename:
   - source: "pinmame/altsound/barra_l1"
     destination: "music/BEASTIEB"

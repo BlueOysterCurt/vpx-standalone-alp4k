@@ -2,18 +2,14 @@
 backglassChecksum: "CF9D976591C87E7CEC437F6679D16C84"
 backglassVPSId: "ZwWOf4NFZU"
 coloredROMChecksum: "BCA5443EC393743084024307690C46A8"
-coloredROMNotes: "Download 'pin2dmd.pal'"
-# yamllint disable-line rule:line-length
-coloredROMUrlOverride: "https://montetoncab.fr/leslipdejoane/Pincab/Medias/VPX/rom_color_pour_VPX_4_et_16_couleurs/DMD_Colorisee_patche/DMD_Colorise_16_color/St161%20hc/st_161hc/"
-coloredROMVersionOverride: "st_161hc"
+coloredROMNotes: "Click on 'st_161hc/' directory and Download 'pin2dmd.pal'"
+coloredROMVPSId: "0d2o7DTR"
 diffChecksum: "00F8D62034008F322C697AD67A6D076C"
 diffVPSId: "HsQi0my24N"
 fps: 60
 romChecksum: "FE0212963850BE8E6CF10F9EEB2EDA08"
-romNotes: "Download 'st_161hc.zip'"
-# yamllint disable-line rule:line-length
-romUrlOverride: "https://montetoncab.fr/leslipdejoane/Pincab/Medias/VPX/rom_color_pour_VPX_4_et_16_couleurs/DMD_Colorisee_patche/DMD_Colorise_16_color/St161%20hc/"
-romVersionOverride: "st_161hc"
+romNotes: "Download ROM 'st_161hc.zip' from the COLOR ROM link."
+romBundled: true
 tableVPSId: "XYh-gw4S"
 testers:
   - "Wraith"
